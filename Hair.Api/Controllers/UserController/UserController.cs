@@ -30,7 +30,7 @@ namespace Hair.Api.Controllers.UserController
             if (result != null)
             {
                 IActionResult apiResult = new ResultBuilder<UserResponseDto>(result.StatusCode, result.Data, result.Message).Go();
-                
+
                 return apiResult;
             }
 
