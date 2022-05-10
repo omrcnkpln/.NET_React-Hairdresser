@@ -178,6 +178,7 @@ namespace Hair.Service.Concrete.UserService
             var activeUserId = activeUser.Id;
             var user = await _unitOfWork.User.GetAsync(x => x.Id == activeUserId, x => x.Role);
 
+            
             try
             {
                 if (!string.IsNullOrEmpty(userUpdateDto.Password))
