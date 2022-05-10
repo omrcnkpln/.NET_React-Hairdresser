@@ -1,0 +1,17 @@
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\bin\Debug\net6.0\Hair.Service.deps.json
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\bin\Debug\net6.0\Hair.Service.dll
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\bin\Debug\net6.0\Hair.Service.pdb
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\bin\Debug\net6.0\Hair.Core.dll
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\bin\Debug\net6.0\Hair.Repository.dll
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\bin\Debug\net6.0\Hair.Repository.pdb
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\bin\Debug\net6.0\Hair.Core.pdb
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.csproj.AssemblyReference.cache
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.AssemblyInfoInputs.cache
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.AssemblyInfo.cs
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.csproj.CoreCompileInputs.cache
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.csproj.CopyComplete
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.dll
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\refint\Hair.Service.dll
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\Hair.Service.pdb
+D:\omer_files\omer-web\Kodlar\okul\hair\Hair.Service\obj\Debug\net6.0\ref\Hair.Service.dll
