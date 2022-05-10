@@ -1777,28 +1777,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kapla\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\omer_files\\omer-web\\Kodlar\\okul\\hair\\Hair.Service\\Hair.Service.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\omrcnkpln\\hair\\Hair.Service\\Hair.Service.csproj",
       "projectName": "Hair.Service",
-      "projectPath": "D:\\omer_files\\omer-web\\Kodlar\\okul\\hair\\Hair.Service\\Hair.Service.csproj",
-      "packagesPath": "C:\\Users\\kapla\\.nuget\\packages\\",
-      "outputPath": "D:\\omer_files\\omer-web\\Kodlar\\okul\\hair\\Hair.Service\\obj\\",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\omrcnkpln\\hair\\Hair.Service\\Hair.Service.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\omrcnkpln\\hair\\Hair.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kapla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1811,8 +1808,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\omer_files\\omer-web\\Kodlar\\okul\\hair\\Hair.Repository\\Hair.Repository.csproj": {
-              "projectPath": "D:\\omer_files\\omer-web\\Kodlar\\okul\\hair\\Hair.Repository\\Hair.Repository.csproj"
+            "C:\\Users\\user\\Source\\Repos\\omrcnkpln\\hair\\Hair.Repository\\Hair.Repository.csproj": {
+              "projectPath": "C:\\Users\\user\\Source\\Repos\\omrcnkpln\\hair\\Hair.Repository\\Hair.Repository.csproj"
             }
           }
         }
@@ -1859,7 +1856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
